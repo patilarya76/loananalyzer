@@ -1,0 +1,116 @@
+loan_id,customer_name,branch,collection_agency,loan_amount,due_amount,paid_amount,due_date,payment_date,days_past_due
+LN1001,Pooja Sharma,Jaipur - MI Road,Apex Recovery Solutions,1450000,20000,0,2026-09-05,,52
+LN1002,Divya Verma,Mumbai - Andheri,In-House Recovery Team,1400000,26000,26000,2026-09-05,2026-09-06,1
+LN1003,Sachin Malhotra,Delhi - Connaught Place,Apex Recovery Solutions,2150000,29000,0,2026-09-05,,61
+LN1004,Divya Reddy,Jaipur - MI Road,Apex Recovery Solutions,1400000,33000,33000,2026-09-05,2026-09-03,0
+LN1005,Kunal Trivedi,Jaipur - MI Road,In-House Recovery Team,3050000,41000,28699,2026-09-05,2026-10-05,30
+LN1006,Manoj Mishra,Jaipur - MI Road,Pioneer Field Solutions,1900000,24000,0,2026-09-05,,32
+LN1007,Vikas Patel,Indore - Vijay Nagar,In-House Recovery Team,1950000,29000,14500,2026-09-05,2026-10-02,27
+LN1008,Ramesh Singh,Bengaluru - Whitefield,Apex Recovery Solutions,2850000,29000,0,2026-09-05,,52
+LN1009,Ramesh Mishra,Indore - Vijay Nagar,Apex Recovery Solutions,2200000,36000,29148,2026-09-05,2026-09-04,0
+LN1010,Anil Verma,Indore - Vijay Nagar,In-House Recovery Team,1750000,37000,37000,2026-09-05,2026-09-01,0
+LN1011,Anil Joshi,Chennai - Anna Nagar,Swift Resolution Agents,2800000,41000,41000,2026-09-05,2026-09-01,0
+LN1012,Suresh Shukla,Delhi - Connaught Place,Pioneer Field Solutions,2000000,35000,25525,2026-09-05,2026-09-05,0
+LN1013,Deepak Kulkarni,Ahmedabad - SG Highway,Apex Recovery Solutions,3250000,39000,27300,2026-09-05,2026-09-18,13
+LN1014,Preeti Pandey,Jaipur - MI Road,Pioneer Field Solutions,750000,19000,4750,2026-09-05,2026-10-13,48
+LN1015,Meera Kulkarni,Jaipur - MI Road,Swift Resolution Agents,1250000,41000,41000,2026-09-05,2026-09-03,0
+LN1016,Rohit Pandey,Pune - Shivaji Nagar,Surya FinServe Collections,2750000,44000,22000,2026-09-05,2026-09-10,5
+LN1017,Ramesh Mishra,Mumbai - Andheri,Pioneer Field Solutions,1750000,43000,38503,2026-09-05,2026-09-03,0
+LN1018,Sunil Verma,Indore - Vijay Nagar,Pioneer Field Solutions,1000000,17000,0,2026-09-05,,57
+LN1019,Rahul Deshmukh,Chennai - Anna Nagar,Pioneer Field Solutions,1250000,28000,19600,2026-09-05,2026-09-25,20
+LN1020,Sanjay Mishra,Indore - Vijay Nagar,Surya FinServe Collections,2000000,35000,24500,2026-09-05,2026-09-22,17
+LN1021,Pooja Mehta,Indore - Vijay Nagar,In-House Recovery Team,1800000,13000,13000,2026-09-05,2026-09-13,8
+LN1022,Sneha Sharma,Pune - Shivaji Nagar,In-House Recovery Team,1450000,16000,0,2026-09-05,,133
+LN1023,Kavita Pandey,Indore - Vijay Nagar,Surya FinServe Collections,2850000,43000,43000,2026-09-05,2026-09-01,0
+LN1024,Arun Mehta,Chennai - Anna Nagar,Swift Resolution Agents,1350000,18000,18000,2026-09-05,2026-09-02,0
+LN1025,Swati Agarwal,Mumbai - Andheri,In-House Recovery Team,900000,37000,0,2026-09-05,,56
+LN1026,Sunil Joshi,Indore - Vijay Nagar,Pioneer Field Solutions,2150000,20000,14000,2026-09-05,2026-09-14,9
+LN1027,Sunil Patel,Chennai - Anna Nagar,Pioneer Field Solutions,1050000,15000,0,2026-09-05,,48
+LN1028,Manoj Mehta,Ahmedabad - SG Highway,Swift Resolution Agents,2300000,42000,42000,2026-09-05,2026-09-05,0
+LN1029,Ramesh Yadav,Mumbai - Andheri,Swift Resolution Agents,1550000,41000,41000,2026-09-05,2026-09-01,0
+LN1030,Bhavna Deshmukh,Indore - Vijay Nagar,Surya FinServe Collections,1400000,15000,0,2026-09-05,,18
+LN1031,Anil Verma,Mumbai - Andheri,Pioneer Field Solutions,2250000,44000,0,2026-09-05,,158
+LN1032,Ramesh Verma,Pune - Shivaji Nagar,Apex Recovery Solutions,950000,16000,8000,2026-09-05,2026-10-03,38
+LN1033,Pooja Saxena,Indore - Vijay Nagar,Pioneer Field Solutions,2650000,14000,14000,2026-09-05,2026-09-19,14
+LN1034,Anil Nair,Indore - Vijay Nagar,Surya FinServe Collections,1500000,28000,28000,2026-09-05,2026-09-03,0
+LN1035,Preeti Reddy,Pune - Shivaji Nagar,In-House Recovery Team,2200000,18000,18000,2026-09-05,2026-09-03,0
+LN1036,Rahul Singh,Pune - Shivaji Nagar,Apex Recovery Solutions,1900000,30000,30000,2026-09-05,2026-09-03,0
+LN1037,Aarav Bhatia,Jaipur - MI Road,In-House Recovery Team,1150000,28000,28000,2026-09-05,2026-09-01,0
+LN1038,Rajesh Nair,Jaipur - MI Road,Pioneer Field Solutions,1400000,33000,33000,2026-09-05,2026-09-03,0
+LN1039,Bhavna Nair,Mumbai - Andheri,In-House Recovery Team,2750000,39000,0,2026-09-05,,62
+LN1040,Meera Deshmukh,Jaipur - MI Road,Apex Recovery Solutions,3100000,40000,40000,2026-09-05,2026-09-19,14
+LN1041,Aarav Kulkarni,Pune - Shivaji Nagar,Apex Recovery Solutions,2450000,14000,2800,2026-09-05,2026-11-03,79
+LN1042,Rajesh Chauhan,Ahmedabad - SG Highway,In-House Recovery Team,1700000,35000,0,2026-09-05,,86
+LN1043,Kunal Joshi,Indore - Vijay Nagar,In-House Recovery Team,1850000,38000,0,2026-09-05,,110
+LN1044,Sunil Gupta,Ahmedabad - SG Highway,Swift Resolution Agents,800000,23000,11500,2026-09-05,2026-10-06,41
+LN1045,Sunil Nair,Ahmedabad - SG Highway,In-House Recovery Team,1950000,14000,0,2026-09-05,,68
+LN1046,Preeti Singh,Jaipur - MI Road,Apex Recovery Solutions,1450000,13000,3250,2026-09-05,2026-10-08,43
+LN1047,Vikram Patel,Jaipur - MI Road,Surya FinServe Collections,2800000,44000,32617,2026-09-05,2026-09-05,0
+LN1048,Pooja Nair,Ahmedabad - SG Highway,Pioneer Field Solutions,1550000,14000,14000,2026-09-05,2026-09-03,0
+LN1049,Divya Trivedi,Pune - Shivaji Nagar,Swift Resolution Agents,2550000,24000,24000,2026-09-05,2026-09-05,0
+LN1050,Sachin Singh,Delhi - Connaught Place,In-House Recovery Team,2850000,33000,0,2026-09-05,,22
+LN1051,Priya Pandey,Jaipur - MI Road,Swift Resolution Agents,1750000,37000,0,2026-09-05,,48
+LN1052,Sachin Chauhan,Delhi - Connaught Place,Apex Recovery Solutions,2700000,31000,0,2026-09-05,,27
+LN1053,Priya Iyer,Indore - Vijay Nagar,Swift Resolution Agents,3250000,32000,9600,2026-09-05,2026-09-20,15
+LN1054,Arun Shukla,Ahmedabad - SG Highway,In-House Recovery Team,1650000,44000,11000,2026-09-05,2026-10-15,50
+LN1055,Manoj Mehta,Jaipur - MI Road,Apex Recovery Solutions,1350000,21000,21000,2026-09-05,2026-09-02,0
+LN1056,Kavita Agarwal,Delhi - Connaught Place,Pioneer Field Solutions,1350000,36000,10800,2026-09-05,2026-09-13,8
+LN1057,Aarav Kulkarni,Delhi - Connaught Place,Apex Recovery Solutions,1300000,45000,13500,2026-09-05,2026-09-23,18
+LN1058,Pooja Agarwal,Ahmedabad - SG Highway,Swift Resolution Agents,2850000,45000,0,2026-09-05,,167
+LN1059,Anil Agarwal,Delhi - Connaught Place,Pioneer Field Solutions,2150000,22000,11000,2026-09-05,2026-10-11,46
+LN1060,Suresh Mehta,Jaipur - MI Road,Pioneer Field Solutions,2300000,27000,27000,2026-09-05,2026-09-03,0
+LN1061,Sunil Nair,Bengaluru - Whitefield,Surya FinServe Collections,2450000,17000,17000,2026-09-05,2026-09-04,0
+LN1062,Sanjay Patel,Delhi - Connaught Place,Swift Resolution Agents,1800000,41000,28699,2026-09-05,2026-09-12,7
+LN1063,Gaurav Saxena,Mumbai - Andheri,Pioneer Field Solutions,1950000,42000,42000,2026-09-05,2026-09-02,0
+LN1064,Swati Mishra,Indore - Vijay Nagar,Swift Resolution Agents,1450000,29000,20300,2026-09-05,2026-09-06,1
+LN1065,Meera Bhatia,Delhi - Connaught Place,Apex Recovery Solutions,2200000,20000,0,2026-09-05,,159
+LN1066,Amit Yadav,Mumbai - Andheri,In-House Recovery Team,2800000,39000,39000,2026-09-05,2026-09-05,0
+LN1067,Suresh Yadav,Bengaluru - Whitefield,Apex Recovery Solutions,2200000,32000,20006,2026-09-05,2026-09-02,0
+LN1068,Suresh Patel,Chennai - Anna Nagar,In-House Recovery Team,3100000,15000,0,2026-09-05,,135
+LN1069,Sneha Rathore,Pune - Shivaji Nagar,In-House Recovery Team,3150000,13000,0,2026-09-05,,116
+LN1070,Amit Trivedi,Ahmedabad - SG Highway,Apex Recovery Solutions,1150000,42000,0,2026-09-05,,49
+LN1071,Preeti Malhotra,Jaipur - MI Road,Surya FinServe Collections,1250000,19000,4750,2026-09-05,2026-10-01,36
+LN1072,Neha Saxena,Mumbai - Andheri,Surya FinServe Collections,2550000,36000,36000,2026-09-05,2026-09-05,0
+LN1073,Sunil Kulkarni,Jaipur - MI Road,Pioneer Field Solutions,1100000,14000,14000,2026-09-05,2026-09-03,0
+LN1074,Kavita Pandey,Bengaluru - Whitefield,In-House Recovery Team,2050000,43000,33798,2026-09-05,2026-09-02,0
+LN1075,Rajesh Chauhan,Ahmedabad - SG Highway,Pioneer Field Solutions,2800000,29000,29000,2026-09-05,2026-10-05,30
+LN1076,Arun Agarwal,Delhi - Connaught Place,Pioneer Field Solutions,1600000,32000,0,2026-09-05,,87
+LN1077,Vikram Agarwal,Indore - Vijay Nagar,Swift Resolution Agents,2550000,36000,36000,2026-09-05,2026-09-03,0
+LN1078,Rohit Bansal,Indore - Vijay Nagar,Surya FinServe Collections,1550000,33000,33000,2026-09-05,2026-09-03,0
+LN1079,Aarav Pandey,Indore - Vijay Nagar,In-House Recovery Team,1500000,38000,11400,2026-09-05,2026-09-30,25
+LN1080,Arun Rathore,Chennai - Anna Nagar,Swift Resolution Agents,3250000,13000,13000,2026-09-05,2026-09-04,0
+LN1081,Priya Bhatia,Bengaluru - Whitefield,Swift Resolution Agents,2500000,45000,33645,2026-09-05,2026-09-03,0
+LN1082,Preeti Nair,Jaipur - MI Road,Surya FinServe Collections,1450000,19000,0,2026-09-05,,41
+LN1083,Rohit Joshi,Indore - Vijay Nagar,Swift Resolution Agents,1600000,45000,13500,2026-09-05,2026-09-09,4
+LN1084,Vikas Mehta,Bengaluru - Whitefield,Apex Recovery Solutions,1700000,12000,3000,2026-09-05,2026-09-30,35
+LN1085,Ananya Verma,Jaipur - MI Road,Apex Recovery Solutions,2750000,43000,43000,2026-09-05,2026-09-03,0
+LN1086,Arun Bansal,Chennai - Anna Nagar,Surya FinServe Collections,1300000,15000,8270,2026-09-05,2026-09-05,0
+LN1087,Naveen Bansal,Pune - Shivaji Nagar,Pioneer Field Solutions,2750000,15000,15000,2026-09-05,2026-09-03,0
+LN1088,Manoj Mehta,Pune - Shivaji Nagar,Pioneer Field Solutions,3150000,38000,38000,2026-09-05,2026-10-01,26
+LN1089,Sneha Pandey,Delhi - Connaught Place,Swift Resolution Agents,2150000,31000,0,2026-09-05,,74
+LN1090,Deepak Trivedi,Pune - Shivaji Nagar,Apex Recovery Solutions,2750000,25000,25000,2026-09-05,2026-09-04,0
+LN1091,Rohit Mishra,Pune - Shivaji Nagar,Apex Recovery Solutions,750000,38000,26600,2026-09-05,2026-09-25,20
+LN1092,Vikas Verma,Indore - Vijay Nagar,Surya FinServe Collections,3000000,30000,0,2026-09-05,,45
+LN1093,Sneha Nair,Indore - Vijay Nagar,Swift Resolution Agents,1100000,26000,13000,2026-09-05,2026-10-05,30
+LN1094,Rajesh Patel,Mumbai - Andheri,Apex Recovery Solutions,3250000,31000,31000,2026-09-05,2026-10-02,27
+LN1095,Vikas Agarwal,Pune - Shivaji Nagar,Swift Resolution Agents,2950000,31000,15500,2026-09-05,2026-10-04,39
+LN1096,Alok Patel,Mumbai - Andheri,Swift Resolution Agents,3100000,32000,0,2026-09-05,,1
+LN1097,Sneha Bhatia,Mumbai - Andheri,Surya FinServe Collections,2550000,14000,7000,2026-09-05,2026-10-01,36
+LN1098,Alok Nair,Ahmedabad - SG Highway,Pioneer Field Solutions,2100000,43000,0,2026-09-05,,151
+LN1099,Kunal Chauhan,Bengaluru - Whitefield,Surya FinServe Collections,2850000,18000,0,2026-09-05,,71
+LN1100,Bhavna Iyer,Delhi - Connaught Place,Pioneer Field Solutions,850000,41000,41000,2026-09-05,2026-09-05,0
+LN1101,Naveen Pandey,Mumbai - Andheri,Pioneer Field Solutions,2200000,38000,38000,2026-09-05,2026-09-01,0
+LN1102,Bhavna Rathore,Chennai - Anna Nagar,In-House Recovery Team,1400000,29000,14500,2026-09-05,2026-10-05,30
+LN1103,Alok Malhotra,Chennai - Anna Nagar,In-House Recovery Team,800000,27000,0,2026-09-05,,40
+LN1104,Swati Patel,Indore - Vijay Nagar,In-House Recovery Team,2200000,19000,13300,2026-09-05,2026-09-10,5
+LN1105,Vikas Pandey,Jaipur - MI Road,Swift Resolution Agents,2250000,42000,42000,2026-09-05,2026-09-02,0
+,Rohan Deshpande,Mumbai - Andheri,In-House Recovery Team,1500000,25000,25000,2026-09-05,2026-09-04,0
+LN1015,Duplicate Entry Record,Pune - Shivaji Nagar,Apex Recovery Solutions,1200000,20000,10000,2026-09-05,2026-09-20,15
+LN1108,Kailash Chand,Jaipur - MI Road,Swift Resolution Agents,-500000,15000,0,2026-09-05,,45
+LN1109,Anita Sengupta,Delhi - Connaught Place,Surya FinServe Collections,1800000,-18000,0,2026-09-05,,60
+LN1110,Venkatesh Rao,Bengaluru - Whitefield,Pioneer Field Solutions,2200000,32000,-5000,2026-09-05,,30
+LN1111,Simran Kaur,Ahmedabad - SG Highway,In-House Recovery Team,2500000,20000,35000,2026-09-05,2026-09-05,0
+LN1112,Tariq Mansoor,Indore - Vijay Nagar,Surya FinServe Collections,1400000,22000,22000,05/09/2026-INVALID,2026-09-05,0
+LN1113,Pooja Hegde,Chennai - Anna Nagar,Apex Recovery Solutions,1900000,28000,0,,,35
+LN1114,Manish Tiwari,Pune - Shivaji Nagar,In-House Recovery Team,1600000,24000,24000,2026-09-05,2026-08-31,-5
+LN1115,,,Swift Resolution Agents,1750000,26000,13000,2026-09-05,2026-09-15,10
