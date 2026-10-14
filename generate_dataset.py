@@ -1,8 +1,8 @@
 """
 generate_dataset.py
 -------------------
-Generates a realistic synthetic loan collection dataset for Vastu Housing Finance
-interview preparation, containing 115 records with various DPD buckets,
+Generates a realistic synthetic loan collection dataset for retail portfolio
+risk analysis, containing 115 records with various DPD buckets,
 branches, collection agencies, and specific edge cases for validation testing.
 """
 

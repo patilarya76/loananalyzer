@@ -150,8 +150,8 @@ def create_excel_mis_report(
     ws_exec.views.sheetView[0].showGridLines = True
 
     # Title Banner
-    ws_exec.cell(row=2, column=2, value="LOAN COLLECTION ANALYZER — EXECUTIVE MIS REPORT").font = Font(name="Calibri", size=16, bold=True, color="1F4E79")
-    ws_exec.cell(row=3, column=2, value="Vastu Housing Finance — Collection Strategy & Delinquency Portfolio Review").font = kpi_sub_font
+    ws_exec.cell(row=2, column=2, value="LOANPULSE ANALYTICS — EXECUTIVE COLLECTION MIS REPORT").font = Font(name="Calibri", size=16, bold=True, color="1F4E79")
+    ws_exec.cell(row=3, column=2, value="Retail Lending Portfolio Risk & Delinquency Performance Review").font = kpi_sub_font
 
     # KPI Summary Cards (Rows 5 to 7)
     kpis_to_show = [

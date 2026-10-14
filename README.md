@@ -1,23 +1,24 @@
-# Loan Collection Analyzer — Automated MIS Reporting System
+# LoanPulse Analytics — Automated Loan Collection & Delinquency MIS System
 
-> **Practice Mini-Project** designed for technical interview preparation in the Collection Strategy Department at Vastu Housing Finance.  
-> *Note: This project utilizes synthetic, fictional loan repayment records to demonstrate Python programming, pandas data analysis, business logic validation, and automated Excel reporting.*
+> **Personal Portfolio Project**: A complete end-to-end data analytics and automated MIS reporting system for retail loan portfolios and debt recovery operations.  
+> *Note: This project utilizes synthetic, fictional loan repayment records to demonstrate Python programming, pandas data engineering, business logic validation, automated Excel reporting with openpyxl, and an interactive React web dashboard.*
 
 ---
 
 ## 1. Project Overview & Business Problem
 
-In retail lending and housing finance, loan portfolios require daily and monthly monitoring to minimize credit risk, track recovery agency performance, and identify early signs of default. 
+In retail lending and credit operations, loan portfolios require daily and monthly monitoring to minimize credit risk, track recovery agency performance, and identify early signs of default. 
 
 Manual preparation of Management Information System (MIS) reports using fragmented spreadsheets is error-prone, slow, and susceptible to unhandled anomalies (such as negative balances, duplicate entries, or unweighted percentage averages).
 
-The **Loan Collection Analyzer** is a Python-based automated pipeline that:
-1. Ingests raw loan repayment data from CSV.
+**LoanPulse Analytics** is an automated pipeline and executive dashboard that:
+1. Ingests raw loan repayment data from CSV or database sources.
 2. Audits data quality and isolates anomalies without silent record deletion.
 3. Calculates standard delinquency metrics (Days Past Due, Outstanding Amount, Collection Efficiency).
 4. Classifies loans into delinquency aging buckets.
 5. Aggregates performance across branches and collection agencies.
 6. Generates visual charts and an executive-ready, multi-sheet Excel MIS report (`output/collection_mis_report.xlsx`).
+7. Powers a responsive, real-time React web dashboard for executive monitoring.
 
 ---
 
@@ -118,17 +119,31 @@ Instead of silently deleting bad data, the validation engine (`src/data_validati
    python -m pip install -r requirements.txt
    ```
 
-4. **Run the Automated MIS Pipeline**:
+4. **Run the Automated MIS Pipeline** (Terminal / Python Mode):
    ```powershell
    python -m src.main
    ```
 
-5. **Run the Automated Unit Tests**:
+5. **Run the Web Application** (React Frontend + FastAPI Backend):
+   - **Terminal 1: Start Backend API (FastAPI)**:
+     ```powershell
+     python api.py
+     ```
+     *(Runs on `http://127.0.0.1:8000` with live analysis and Excel download endpoints)*
+
+   - **Terminal 2: Start React Frontend (Vite)**:
+     ```powershell
+     cd frontend
+     npm run dev
+     ```
+     *(Open your browser at `http://127.0.0.1:5173` to interact with the executive dashboard)*
+
+6. **Run the Automated Unit Tests**:
    ```powershell
    python -m unittest tests/test_calculations.py
    ```
 
-6. **Locate and Open the Excel MIS Report**:
+7. **Locate and Open the Excel MIS Report Directly**:
    ```powershell
    Invoke-Item .\output\collection_mis_report.xlsx
    ```

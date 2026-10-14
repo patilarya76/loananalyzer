@@ -124,8 +124,8 @@ def run_pipeline(project_root: str = None):
     charts_dir = os.path.join(project_root, "charts")
 
     print("\n" + "=" * 75)
-    print("  LOAN COLLECTION ANALYZER — AUTOMATED MIS REPORTING SYSTEM")
-    print("  Vastu Housing Finance | Collection Strategy Department")
+    print("  LOANPULSE ANALYTICS — AUTOMATED LOAN COLLECTION & DELINQUENCY MIS")
+    print("  Portfolio Risk & Collection Strategy Department")
     print("=" * 75)
 
     # Step 1: Data Ingestion
